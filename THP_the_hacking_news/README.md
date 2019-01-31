@@ -1,24 +1,7 @@
-# README
+# THE HACKING NEWS 💾
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Don't forget the bundle install...<br><br>
+How to check the code??? : Go to your yout terminal at the root for the folder and do 'rails console' then type the following:<br>
+tp ModelName.all<br><br>
+Enjoy 🍉
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
